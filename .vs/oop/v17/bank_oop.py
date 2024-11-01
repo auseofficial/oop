@@ -125,4 +125,4 @@ print(obj1.id)
 obj1="hello"
 obj2="\tworld"
 total=obj1 + obj2
-print(total) 
+print(total)
