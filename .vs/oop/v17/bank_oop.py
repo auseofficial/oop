@@ -120,9 +120,7 @@ class Akib:
         print(f"Name: {self.name}, ID: {self.id}, Email: {self.email}")
         
 obj1=Akib("Suny",20221,"test@hotmail.com")
-print(obj1.id)        
-
-
+print(obj1.id)
 
 obj1="hello"
 obj2="\tworld"
